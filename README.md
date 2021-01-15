@@ -1,2 +1,4 @@
 # hello-world
-It is a sample for learning to use Github
+Hi  Humans!
+
+I liked to say hello to you. 
